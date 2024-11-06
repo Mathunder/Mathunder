@@ -6,6 +6,6 @@
 
 ## My Stats:
 <div>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Mathunder&show_icons=true&theme=tokyonight" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathunder&theme=tokyonight&layout=compact" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=Mathunder&show_icons=true&theme=tokyonight" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathunder&theme=tokyonight&layout=compact" />
 </div>
